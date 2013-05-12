@@ -1,2 +1,3 @@
 create another test file.
 add new line
+add another conflict to this test file.

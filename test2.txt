@@ -1,7 +1,4 @@
 create another test file.
 add new line
-<<<<<<< HEAD
 add another conflict to this test file.
-=======
 add a different line to this test file.
->>>>>>> cf9c32dc0f24fd6907bbb28b001f131dc2c297eb
